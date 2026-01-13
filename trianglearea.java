@@ -11,7 +11,7 @@ public class trianglearea {
             double b=ki.nextDouble();
             System.out.println("Enter length of triangle side c:");
             double c=ki.nextDouble();
-            if (a>0 && a>0 && a>0) {
+            if (a>0 && b>0 && c>0) {
                 s=(a+b+c)/2;
                 A=Math.sqrt(s*(s-a)*(s-b)*(s-c));
                 System.out.println("The area of a triangle is :"+A);
@@ -24,4 +24,5 @@ public class trianglearea {
     }
     
 }
+
 
