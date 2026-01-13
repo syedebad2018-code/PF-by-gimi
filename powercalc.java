@@ -8,7 +8,8 @@ public class powercalc {
         System.out.println("Enter Ammeter reading:");
         double I=ki.nextDouble();
         P=V*I;
-        System.out.println("The power consumption of Electrical Appliance is:" + P);
+        System.out.println("The power consumption of Electrical Appliance is:" + P +"W");
     }
     
 }
+
