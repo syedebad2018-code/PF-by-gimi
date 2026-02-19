@@ -1,3 +1,3 @@
 Name: Syed Muhammad Ebad Ul Haq
-SR No. : 75 , sec B
+SR No. : 53 , sec C
 Form No. : 5654885
